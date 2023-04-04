@@ -1,0 +1,22 @@
+.profile-container {
+    background: linear-gradient(104.95deg, #02268F 25.58%, #0264FF 89.83%);
+    height: 53vh;
+}
+
+.profile-subcontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile {
+    margin: 5vh 8vw 0 8vw;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+.hello-msg {
+    color: #fff;
+    font-weight: 700;
+}
